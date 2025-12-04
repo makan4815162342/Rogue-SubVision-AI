@@ -9,6 +9,8 @@ Rogue SubVision AI is a cross-platform application (Windows & Android) built wit
 
 It solves the problem of missing or unsynchronized subtitles on the web by handling the rendering layer natively in Flutter while controlling the web content via JavaScript injection.
 
+*   **Link to Download both Windows and Android TV Versions:** 
+
 ### 🚀 Features & Architecture
 
 *   **Split-View & Overlay UI:**
