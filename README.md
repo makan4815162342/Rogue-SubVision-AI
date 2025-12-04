@@ -28,12 +28,3 @@ Clone the repository.
 Ensure you have the Flutter SDK installed.
 Windows: Visual Studio C++ workload required.
 Android: Android SDK 34+.
-code
-Bash
-flutter pub get
-flutter run -d windows
-# or
-flutter run -d android
-⚠️ Known Limitations
-DRM Content: Some DRM-protected streams (Widevine) may block screen scraping, though the subtitle overlay usually works as it renders independently.
-Complex DOMs: Sites with heavily obfuscated video players (custom Canvas players) may not be detected by the Omni-Spy script.
