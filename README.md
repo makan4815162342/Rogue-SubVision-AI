@@ -52,5 +52,6 @@ flutter run -d android
 ### ⚠️ Known Limitations
 *   **DRM Content:** Some DRM-protected streams (Widevine) may block screen scraping, though the subtitle overlay usually works as it renders independently.
 *   **Complex DOMs:** Sites with heavily obfuscated video players (custom Canvas players) may not be detected by the Omni-Spy script.
+*   **Mouse Required:** For the best experience with Android TV, a Mouse is needed.
 
 ---
