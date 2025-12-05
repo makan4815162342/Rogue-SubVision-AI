@@ -67,7 +67,6 @@ flutter run -d android
 
 <img width="562" height="521" alt="Rogue_2" src="https://github.com/user-attachments/assets/7e4477c6-5aa4-414c-9ac3-3890c1e8f3a4" />
 
-<img width="2537" height="526" alt="Rogue_3" src="https://github.com/user-attachments/assets/e815ab83-7ab5-49e2-a589-1193c532b481" />
 
 
 ---
